@@ -2,7 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Francois-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/davidfrancois/)
 [![IMDb](https://img.shields.io/badge/IMDb-David%20Francois-yellow?style=flat&logo=imdb)](https://www.imdb.com/fr/name/nm1441390/)
 [![Vimeo](https://img.shields.io/badge/Vimeo-David%20Francois-1ab7ea?style=flat&logo=vimeo)](https://vimeo.com/davidfrancois)
-[![Email](https://img.shields.io/badge/Email-d.davidfrancois@gmail.com-ff69b4?style=flat&logo=gmail)](mailto:d.davidfrancois@gmail.com)
+[![Email](https://img.shields.io/badge/Email-d.davidfrancois@gmail.com-34A853?style=flat&logo=gmail&logoColor=white)](mailto:d.davidfrancois@gmail.com)
+
 
 
 I am a **Lead Compositing Artist on Nuke**, focused on workflow optimization and Python tool development for VFX artists. My goal is to streamline processes and help teams fully dedicate themselves to their creativity.  
