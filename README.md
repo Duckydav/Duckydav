@@ -1,11 +1,11 @@
 ### 👋 Welcome!  
 I am a **Lead Compositing Artist on Nuke**, focused on workflow optimization and Python tool development for VFX artists. My goal is to streamline processes and help teams fully dedicate themselves to their creativity.  
 
-### 🔧 Tools and Projects  
-- **Render Manager**: Manages renders with visual versioning.  
-- **Channel Viewer**: Intuitive organization of EXR passes.  
-- **Cryptomatte Tools**: Optimized selection and cleanup of Cryptomattes.  
-- **W_Hotbox**: Integrated and customized for seamless production.  
+### 🔧 Tools  
+- **Render Manager**: Manages renders with visual versioning, including pre-denoised Arnold AOV passes and metadata such as the lighter's name, streamlining updates
+- **Channel Viewer**: Intuitive organization of EXR passes into categories (e.g., AOV Light, Mask, Utils, and Technical Layers), reducing search time and enhancing efficiency. Additional features include Contact Sheet creation and direct access to tools like Shuffle or AOVGrade for selected passes.
+- **Cryptomatte Tools**: Optimized selection and cleanup of Cryptomattes with presets that streamline surfacing manifests and eliminate manual input.
+- **W_Hotbox**: Integrated into production and customized for exclusive adjustments by leads, providing a seamless workflow similar to Maya's Spacebar.
 
 ### 🎯 Skills  
 - Automating repetitive tasks in Nuke.  
