@@ -2,10 +2,12 @@
 I am a **Lead Compositing Artist on Nuke**, focused on workflow optimization and Python tool development for VFX artists. My goal is to streamline processes and help teams fully dedicate themselves to their creativity.  
 
 ### 🔧 Tools  
+Here are examples of tools in production:
 - **Render Manager**: Manages renders with visual versioning, including pre-denoised Arnold AOV passes and metadata such as the lighter's name, streamlining updates
-- **Channel Viewer**: Intuitive organization of EXR passes into categories (e.g., AOV Light, Mask, Utils, and Technical Layers), reducing search time and enhancing efficiency. Additional features include Contact Sheet creation and direct access to tools like Shuffle or AOVGrade for selected passes.
-- **Cryptomatte Tools**: Optimized selection and cleanup of Cryptomattes with presets that streamline surfacing manifests and eliminate manual input.
-- **W_Hotbox**: Integrated into production and customized for exclusive adjustments by leads, providing a seamless workflow similar to Maya's Spacebar.
+- **Channel Viewer**: Tool for managing and manipulating AOVs organized into distinct categories (AOV Light, Mask, Utils, and Technical Layers), reducing search time in the Channel tab of the Viewer and improving the efficiency of compositors. It also allows the creation of Contact Sheets for each category or enables Shuffle or AOVGrade operations on the selected pass to work on.
+- **Cryptomatte Tools**: Recognizes Cryptomatte selections through a preset that cleans up surfacing manifests, enabling quick identification on the node and avoiding manual input.
+- **Exchange Node**: Node exchange tool for artists, enhancing collaboration and workflow efficiency.
+- **W_Hotbox**: Implemented in production the tool by Wouter Gilsing, modified to be adjusted only by leads (similar to Maya's Spacebar).
 
 ### 🎯 Skills  
 - Automating repetitive tasks in Nuke.  
