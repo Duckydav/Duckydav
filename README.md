@@ -18,7 +18,6 @@ Here are examples of tools in production:
 
 ### 🎯 Skills  
 - Automating repetitive tasks in Nuke.  
-- Verifying Nuke setups for key shots from Lead Lighters (keycheck).  
 - Proactively identifying and resolving technical issues.  
 
 ### 🌟 Interests  
