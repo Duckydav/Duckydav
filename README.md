@@ -11,7 +11,7 @@ I am a **Lead Compositing Artist on Nuke**, focused on workflow optimization and
 ### 🔧 Tools  
 Here are examples of tools in production:
 - **Render Manager**: Manages renders with visual versioning, including pre-denoised Arnold AOV passes and metadata such as the lighter's name, streamlining updates
-- **Channel Viewer**: Tool for managing and manipulating AOVs organized into distinct categories (AOV Light, Mask, Utils, and Technical Layers), reducing search time in the Channel tab of the Viewer and improving the efficiency of compositors. It also allows the creation of Contact Sheets for each category or enables Shuffle or AOVGrade operations on the selected pass to work on.
+- **Layer Manager**: Tool for managing and manipulating AOVs organized into distinct categories (AOV Light, Mask, Utils, and Technical Layers), reducing search time in the Channel tab of the Viewer and improving the efficiency of compositors. It also allows the creation of Contact Sheets for each category or enables Shuffle or GradeAOV operations on the selected pass to work on.
 - **Cryptomatte Tools**: Recognizes Cryptomatte selections through a preset that cleans up surfacing manifests, enabling quick identification on the node and avoiding manual input.
 - **Exchange Node**: Node exchange tool for artists, enhancing collaboration and workflow efficiency.
 - **W_Hotbox**: Implemented in production the tool by Wouter Gilsing, modified to be adjusted only by leads (similar to Maya's Spacebar).
